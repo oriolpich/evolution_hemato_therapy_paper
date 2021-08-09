@@ -1,0 +1,23 @@
+UPN	Sequencing	Gender	Age at            t-AML/t-MDS Diagnosis	Original Disease	Chemotherapy Received	Radiation	Latency (years)	Diagnosis
+180866	WGS	M	66	Multiple Myeloma	melphalan and arsenic trioxide then bortezomib	yes	3.2	AML
+189941	WGS	F	42	Breast/Ovarian	Breast: unknown. Ovarian: carboplatin/paclitaxel. Unrelated treatment includes mitoxantrone and interferon beta	yes	5.8	AML
+266608	WGS	M	80	Renal	includes 5-fluorouracil, IL-2, and interferon	no	6.4	AML
+400992	WGS	F	52	Breast	 adriamycin/cyclophosphamide then docetaxel x 4 cycles	yes	2.3	AML
+476081	WGS	F	68	Breast	adriamycin/cyclophosphamide x 4 cycles then paclitaxel x 4 cycles 	yes	1.6	AML
+476204	WGS	F	51	Breast	unknown regimen	yes	7.2	AML
+514901	WGS	F	63	Breast	none	yes	1.2	AML
+548417	WGS	F	77	Breast	unknown regimen	no	13.3	AML
+572162	WGS	F	59	Breast	adriamycin/cyclophosphamide x 4 cycles then docetaxel x 4 cycles 	yes	4.8	AML
+596616	WGS	M	43	Multiple Sclerosis	mitoxantrone, interferon beta-1b 	no	0.9	AML
+597808	WGS	F	59	Breast	adriamycin/cyclophosphamide x 4 cycles then autologous transplant (unknown conditioning)	yes	9.8	AML
+644242	WGS	F	56	Breast	adriamycin, cyclophosphamide, paclitaxel	yes	4.7	AML
+658208	WGS	M	50	Multiple Sclerosis	mitoxantrone, interferon beta-1a 	no	6.8	AML
+698494	WGS	F	57	Non-Hodgkin's Lymphoma	R-CHOP x 6 cycles	no	7.1	AML
+706395	WGS	F	45	Lung 	carboplatin/etoposide then cisplatin/etoposide then cyclophosphamide	yes	1.8	AML
+717044	WGS	F	80	Uterine	unknown regimen	yes		AML
+779828	WGS	M	68	Prostate	none	yes	2.3	AML
+811184	WGS	M	26	Non-Hodgkin's Lymphoma	R-CHOP x unknown cycles	no	2.3	AML
+856024	WGS	M	26	Non-Hodgkin's Lymphoma	HyperCVAD 1A, 1B,2A, 3B then autologous transplant (cyclophosphamide/Fludarabine/TBI conditioning)	yes	1.1	AML
+864484	WGS	M	39	Testicular	bleomycin containing regimen	yes	8.3	AML
+925964	WGS	F	58	Ovarian	carboplatin/paclitaxel x 7 cycles then topotecan x 4 cycles then gemcitabine x 3 cycles then gemcitabine/cisplatin then doxil x 2 cycles then docetaxel/carboplatin then etoposide x 13 months	no	3.1	AML
+982895	WGS	F	47	Breast	none	yes	2.5	AML
