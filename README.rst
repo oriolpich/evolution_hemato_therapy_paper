@@ -7,6 +7,8 @@ README
 This folder contains the code used in `The evolution of hematopoietic cells under cancer therapy <LINK TO THE PAPER>`_.
 If you use this code in a publication, please cite:
 
+.. admonition:: Citation
+   :class: note
 
    Oriol Pich, Albert Cortes-Bullich, Ferran Muiños, Marta Pratcorona, Abel Gonzalez-Perez,
    Nuria Lopez-Bigas, **The evolution of hematopoietic cells under cancer therapy**, 
@@ -58,24 +60,25 @@ How to reproduce the analyses
 We divided the analyses in different figures. Please look at the different jupyter notebooks which will point
 to the commands needed for reproducing the analyses. The supplementary figures are also included.
 
-- `Figure 1 <https://github.com/oriolpich/evolution_hemato_therapy/blob/main/src/figures/Figure1.ipynb>`_
+- `Figure 1 <http://nbviewer.jupyter.org/urls/bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/src/figures/Figure1.ipynb>`_
 
-- `Figure 2 <https://github.com/oriolpich/evolution_hemato_therapy/tree/main/src/figures/Figure2.ipynb>`_
+- `Figure 2 <http://nbviewer.jupyter.org/urls/bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/src/figures/Figure2.ipynb>`_
 
-- `Figure 3 <https://github.com/oriolpich/evolution_hemato_therapy/tree/main/src/figures/Figure3.ipynb>`_
+- `Figure 3 <http://nbviewer.jupyter.org/urls/bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/src/figures/Figure3.ipynb>`_
 
-- `Figure 4 <https://github.com//oriolpich/evolution_hemato_therapy/tree/main/src/figures/Figure4.ipynb>`_
+- `Figure 4 <http://nbviewer.jupyter.org/urls/bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/src/figures/Figure4.ipynb>`_
 
-- `Supplementary Note <https://github.com//oriolpich/evolution_hemato_therapy/tree/main/src/figures/supplementary_note.ipynb>`_
+- `Supplementary Note <http://nbviewer.jupyter.org/urls/bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/src/figures/supplementary_note.ipynb>`_
+
 
 
 Most of the code will try to find files specificed in the config file. Please change the path to your files accordingly. 
 
 The mutations from our variant calling can be found here:
 
-- `Mutations <https://github.com//oriolpich/evolution_hemato_therapy/tree/main/data/samples/AML.all.muts.gz>`_
+- `Mutations <https://bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/data/samples/AML.all.muts.gz>`_
 
-
-The code has been written by Oriol Pich, except Figures 4e,d and most of the Logistic Regression analysis which was produced by Ferran Muiños. The code has been revised and tested by Miguel Grau and David Martinez.
+The code has been written by `Oriol Pich <https://github.com/oriolpich>`_ , except Figures 4e,d and most of the Logistic Regression analysis which was produced by `Ferran Muiños <https://github.com/koszulordie>`_. 
+The code has been revised and tested by `Miguel Grau <https://github.com/migrau>`_ and `David Martinez <https://github.com/dmartmillan>`_.
 
  
