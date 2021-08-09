@@ -70,8 +70,6 @@ to the commands needed for reproducing the analyses. The supplementary figures a
 
 - `Supplementary Note <http://nbviewer.jupyter.org/urls/bitbucket.org/bbglab/evolution_hemato_therapy/raw/master/src/figures/supplementary_note.ipynb>`_
 
-
-
 Most of the code will try to find files specificed in the config file. Please change the path to your files accordingly. 
 
 The mutations from our variant calling can be found here:
