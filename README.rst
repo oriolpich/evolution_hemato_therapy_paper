@@ -4,7 +4,7 @@ README
 
 |
 
-This folder contains the code used in `The evolution of hematopoietic cells under cancer therapy <LINK TO THE PAPER>`_.
+This folder contains the code used in `The evolution of hematopoietic cells under cancer therapy <https://www.nature.com/articles/s41467-021-24858-3>`_.
 If you use this code in a publication, please cite:
 
 .. admonition:: Citation
@@ -12,8 +12,9 @@ If you use this code in a publication, please cite:
 
    Oriol Pich, Albert Cortes-Bullich, Ferran Muiños, Marta Pratcorona, Abel Gonzalez-Perez,
    Nuria Lopez-Bigas, **The evolution of hematopoietic cells under cancer therapy**, 
-   Nature Communications, 2021, `doi <https://doi.org/10.1038/s41467-021-24858-3>`_
-
+   Nature Communications, 4803 (2021), https://doi.org/10.1038/s41467-021-24858-3 
+   
+   
 
 Part of the data needed to reproduce the analyses is under restricted access. These datasets and their accession are described in specific sections of the methods.
 The metastatic tumor cohort data (DR-024 version 2) is available from the `Hartwig Medical Foundation <(https://www.hartwigmedicalfoundation.nl/en>`_ for academic research upon request. Without the Hartwig Metastatic tumor cohort the results won't be reproducible.
